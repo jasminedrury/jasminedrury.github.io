@@ -1,0 +1,60 @@
+
+body {
+background-color: #0f100a;
+}
+
+
+h1 {
+	color: #e2dfd8;
+	text-align: center;
+	font-weight: 200;
+	font-family: Helvetica;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+}
+
+
+p {
+	color: #e2dfd8;
+	text-align: center;
+	width: 750px;
+	margin-left: auto;
+    margin-right: auto;
+    font-family: Helvetica;
+    line-height: 1.6;
+    margin-top: 24px;
+}
+
+
+
+li {
+	color: #e2dfd8;
+	font-size: 18px;
+	font-family: Helvetica;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 950px;
+    padding-bottom: 24px;
+}
+
+
+#slogan {
+	color: #af8d72;
+	font-style: italic;	
+	text-align: center;
+	font-size: 20px;
+	padding-bottom: 24px;
+	font-family: Helvetica;
+
+}
+
+ul {
+	color: #e2dfd8;
+    text-align: center;
+    list-style-type: none;
+    font-family: Helvetica;
+}
