@@ -1,0 +1,55 @@
+
+html	{
+    background-color: #FFE2B8;
+}
+
+.wrapper {
+    border: 2px black solid; 
+}
+
+.padding {
+    padding: 20px 60px 20px 60px;
+    background-color: #FFE2B8;
+    border-bottom: 1px black solid;
+}
+
+header {
+    background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+    background-color: #E8C66A;
+    border-bottom: 2px black solid;
+    padding: 20px;
+}
+
+aside {
+    background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+    margin-top: 0px;
+
+}
+
+article {
+    background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+
+}
+
+footer {
+    background-color: #FF957E;
+    border-top: 1px black solid;
+    padding: 20px;
+}
+
+section {
+    background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
